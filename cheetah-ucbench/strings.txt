@@ -1,0 +1,13 @@
+        v2 = sub_40A280((int)"UNRAR-crack 2011\nBased on unrar %s by (c) 1993-%d Alexander Roshal\nModifications by anrieff");
+  
+  printf(
+    "CPU Detection:\n   %d MHz %s, %d KiB L1D cache, %d KiB L2 cache, %d threads\n",
+
+printf("Results:\n");
+  printf("+----------+------------+---------------+--------+-----------+\n");
+  printf("| #Threads | CryptoFunc | Pwds. checked |  Time  | Pwds./sec |\n");
+  printf("+----------+------------+---------------+--------+-----------+\n");
+
+      "| %8d | %-10s | %13d | %6.2lf | %9.1lf |\n",
+
+  printf("+----------+------------+---------------+--------+-----------+\n");

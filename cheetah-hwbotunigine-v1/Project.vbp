@@ -1,0 +1,52 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\WINDOWS\system32\stdole2.tlb#OLE Automation
+Form=Form1.frm
+Module=Module1; Module1.bas
+Module=enums; enums.bas
+Class=MD5Hash; MD5Hash.cls
+Module=Module3; Module3.bas
+Module=Module2; Module2.bas
+Module=font; font.bas
+Module=modules; modules.bas
+Module=submit; submit.bas
+Class=cImage; cImage.cls
+Class=cJpeg; cJpeg.cls
+Form=About.frm
+IconForm="Form1"
+Startup="Form1"
+HelpFile=""
+Title="HWBOT Unigine Heaven Benchmark"
+ExeName32="Project1"
+Command32=" ""
+Name="beta"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=3
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="mcq8"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=-1
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+
+[MS Transaction Server]
+AutoRefresh = 1
+AutoRefresh=1
+
+[VB Decompiler]
+Build = 9.1.4642.4893
+Date = 11/26/2012
